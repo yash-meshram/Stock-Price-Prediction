@@ -1,4 +1,5 @@
 # Stock-Price-Prediction
-* Predicted the stock price of Apple
-* Use the LSTM method
-* Get an RMS error of approximately 0.85
+* Build the model to predict the stock price of Apple.
+* Implement feature selection and build a Deep Learning model(LSTM).
+* Minimize the RMS error up to 0.85.
+
